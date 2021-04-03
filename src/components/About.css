@@ -1,0 +1,32 @@
+.about {
+  background-color: #fafbfc;
+  /* background-color: red; */
+}
+
+.main {
+  margin: 50px;
+  background-color: #ffffff;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.goals h1 {
+  color: #babfc8;
+  text-align: center;
+}
+
+.goals p {
+  color: black;
+  text-align: center;
+}
+
+.info {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.info h1 {
+  text-align: center;
+}
